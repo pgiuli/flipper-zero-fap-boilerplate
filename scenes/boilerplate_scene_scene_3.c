@@ -52,7 +52,7 @@ void boilerplate_scene_scene_3_on_enter(void* context) {
     button_menu_add_item(
         button_menu,
         "Examples",
-        ButtonIndexButton1,
+        ButtonIndexButton3,
         boilerplate_scene_3_callback,
         ButtonMenuItemTypeCommon,
         context);
